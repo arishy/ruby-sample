@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Aflan Wasahlan"
+  "Ahlan Wasahlan"
 end
